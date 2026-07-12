@@ -229,7 +229,7 @@
                 </radialGradient>
               </defs>
             </svg>
-            <span class="absolute text-white/50 text-xs font-light tracking-wide uppercase">Insert Your Favorite Photo Here</span>
+            <span class="absolute text-white/50 text-xs font-light tracking-wide uppercase">![image alt]([76372](https://github.com/vv2416175-rgb/Sorrry/blob/e2b8ebc3304e6df8b5170703c228b05f9652b6bd/IMG-20260226-WA0008.jpg)</span>
           </div>
           <p class="font-serif italic text-lg mt-5 text-zinc-800">Our happiest memory ❤️</p>
         </div>
